@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,claude.ai
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.com

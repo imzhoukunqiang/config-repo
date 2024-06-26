@@ -1,12 +1,9 @@
 payload:
-  - DOMAIN,clash.razord.top,DIRECT
-  - DOMAIN,yacd.haishan.me,DIRECT
-  - DOMAIN,nezha-rpc.8080443.xyz,DIRECT
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,nezha-rpc.8080443.xyz
   #DNS
-  - DOMAIN,max.rethinkdns.com,DIRECT
-  - DOMAIN,sky.rethinkdns.com,DIRECT
-  - DOMAIN,dns.cloudflare.com,DIRECT
-  - DOMAIN,dns.quad9.net,DIRECT
-  - IP-CIDR,1.1.1.1/32,DIRECT,no-resolve
-  - IP-CIDR,1.0.0.1/32,DIRECT,no-resolve
-  - IP-CIDR,8.8.4.4/32,DIRECT,no-resolve
+  - DOMAIN,max.rethinkdns.com
+  - DOMAIN,sky.rethinkdns.com
+  - DOMAIN,dns.cloudflare.com
+  - DOMAIN,dns.quad9.net
