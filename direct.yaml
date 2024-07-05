@@ -2,6 +2,12 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,nezha-rpc.8080443.xyz
+  # https://t.me/TreeDiagramBot
+  - DOMAIN,789.123456.al
+  # 1111 https://t.me/loserpay_bot
+  - DOMAIN,cfde.xmsl.org
+  # micu https://t.me/micu_user_bot
+  - DOMAIN-SUFFIX,micu.hk
   #DNS
   - DOMAIN,max.rethinkdns.com
   - DOMAIN,sky.rethinkdns.com
