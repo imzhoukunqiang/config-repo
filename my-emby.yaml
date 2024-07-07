@@ -1,6 +1,6 @@
 payload:
   # https://t.me/TreeDiagramBot
-  - DOMAIN,789.123456.al
+  - DOMAIN-SUFFIX,123456.al
   # 1111 https://t.me/loserpay_bot
-  - DOMAIN,cfde.xmsl.org
+  - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,imetyou.top
