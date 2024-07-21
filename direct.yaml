@@ -9,3 +9,6 @@ payload:
   - DOMAIN,sky.rethinkdns.com
   - DOMAIN,dns.cloudflare.com
   - DOMAIN,dns.quad9.net
+  # Steam
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamserver.net
