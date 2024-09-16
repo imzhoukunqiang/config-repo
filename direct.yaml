@@ -4,12 +4,12 @@ payload:
   - DOMAIN,nezha-rpc.8080443.xyz
   # micu https://t.me/micu_user_bot
   - DOMAIN-SUFFIX,micu.hk
-  # DNS
-  - DOMAIN,max.rethinkdns.com
-  - DOMAIN,sky.rethinkdns.com
-  - DOMAIN,dns.cloudflare.com
-  - DOMAIN,dns.quad9.net
-  - DOMAIN,doh.opendns.com
+  # # DNS
+  # - DOMAIN,max.rethinkdns.com
+  # - DOMAIN,sky.rethinkdns.com
+  # - DOMAIN,dns.cloudflare.com
+  # - DOMAIN,dns.quad9.net
+  # - DOMAIN,doh.opendns.com
   # Steam
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamserver.net
