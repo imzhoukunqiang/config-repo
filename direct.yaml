@@ -13,3 +13,4 @@ payload:
   # Steam
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,oaifree.com
