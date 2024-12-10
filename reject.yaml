@@ -1,2 +1,3 @@
 payload:
-  - AND,((DST-PORT,443/80),(NETWORK,UDP))
+ # - AND,((DST-PORT,443/80),(NETWORK,UDP))
+  - DOMAIN,sssssssssssssssssssssssssssssdddddddddddddqwevcxsgawtwe.ai
