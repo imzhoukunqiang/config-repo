@@ -1,7 +1,7 @@
 payload:
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
-  - DOMAIN,nezha-rpc.8080443.xyz
+  - DOMAIN,nezha.8080443.xyz
   # micu https://t.me/micu_user_bot
   - DOMAIN-SUFFIX,micu.hk
   # # DNS
