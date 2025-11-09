@@ -1,4 +1,6 @@
 payload:
+  # NTP
+  - AND,((DST-PORT,123),(NETWORK,UDP))
   - DOMAIN-SUFFIX,wal-mart.com
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
