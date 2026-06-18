@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,freebuff.com
+  - DOMAIN-SUFFIX,codebuff.com
+  - DOMAIN-SUFFIX,ai-gateway.vercel.sh
+  - DOMAIN-SUFFIX,posthog.com
+  - DOMAIN,registry.npmjs.org
+  - DOMAIN-SUFFIX,zeroclick.dev
